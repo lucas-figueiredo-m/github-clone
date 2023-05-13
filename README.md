@@ -1,4 +1,4 @@
-# Spectacle App - React Native
+# Github Clone
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucas-figueiredo-m/github-clone?style=for-the-badge)
